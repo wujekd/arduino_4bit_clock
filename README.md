@@ -1,0 +1,2 @@
+# arduino_4bit_clock
+ A simple counter that I made for work as a student learning assistant where students had to build a traffic light system with logic gates. The idea is to allow to run the light sequence as well as to help debug the breadboard light system. The device allows running 4 bit counter that features tempo adjustment and sequence direction change when its running. As well as manually skipping through individual values when the clock is stopped (speed turned down to 0). 
